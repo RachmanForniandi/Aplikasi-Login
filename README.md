@@ -2,7 +2,7 @@
 sebuah aplikasi dengan fitur login sederhana. Latihan Dokumentasi.
 
 Alur Fitur Login:
-1. Memasukkan email dan password
+1. Memasukkan nama,email dan password
 2. Memvalidasi masukan.
 3. Menampilkan halaman beranda.
 4. Memasukkan nama ibu untuk validasi.
